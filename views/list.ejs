@@ -12,8 +12,10 @@
     <%newListItems.forEach(function(item){ %>
       <form action="/delete" method="post">
         <div class="item">
-          <!-- name is the key and value is the value associated with the key. onChange allows you submit a checkbox -->
+          <!-- name is the key and value is the value associated with the key. on>Change allows you submit a checkbox -->
           <input type="checkbox" name="checkbox" value="<%=item._id%>" onChange="this.form.submit()">
+          <!-- include data that can't be modified by the user -->
+          <input type="hidden" name="listName" value="<%=listTitle%>"></input>
           <p> <%=item.name%> </p>
         </div>
       </form>
@@ -22,7 +24,7 @@
 
     <form class="item" action="/" method="post">
       <input type="text" name="newItem" placeholder="New Item"  autocomplete="off">
-      <button type="submit" name="list" value=<%=listTitle%>>+</button>
+      <button type="submit" name="list" value="<%=listTitle%>">+</button>
     </form>
   </div>
 
