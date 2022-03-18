@@ -20,7 +20,7 @@ app.use(express.static("public"));
 main().catch(err => console.log(err));
 
 async function main() {
-  await mongoose.connect('mongodb://localhost:27017/todolistDB');
+  await mongoose.connect('mongodb+srv://admin-elizabeth:Test123@cluster0.1owru.mongodb.net/todolistDB');
 };
 
 // creating a schema for one property
