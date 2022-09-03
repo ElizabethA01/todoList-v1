@@ -15,7 +15,7 @@
 
 
 ## General Information
-- I created a website that host a to do list live using heroku and mongodb. 
+- I created a website that host a to do list live using heroku and mongodb with the use of storing data. 
 - The purpose of the project was to create an online to-do list whilst developing my skills coding with JavaScript, HTML and CSS.
 - I undertook this project as part of a Web Development Bootcamp course.
 
@@ -24,6 +24,8 @@
 - JavaScript (Node.js, EJS)
 - HTML
 - CSS
+- MongoDB
+- SQL
 
 
 ## Features
