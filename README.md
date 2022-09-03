@@ -1,7 +1,6 @@
 # ToDoList-v1
 
 > A customisable to-do list where the user can add and tick off items. 
-> 
 > Live demo https://peaceful-dusk-23496.herokuapp.com/ 
 
 ## Table of Contents
@@ -55,5 +54,5 @@ To do:
 
 
 ## Acknowledgements
-- This project was inspired by the Web Development bootcamp course by Angela Yu on Udemy. 
+- This project was inspired by [The Complete 2022 Web Development Bootcamp] https://www.udemy.com/course/the-complete-web-development-bootcamp/
 
