@@ -1,17 +1,5 @@
 # ToDoList-v1
 
-I created a to do list using JavaScript, EJS, HTML, CSS and Node.js. 
-
-The link to the website is 
-
-# How to Use
-
-Type to do item and press + button to add to list. Tick the checkbox if an item is completed. You can also create custom lists as well. 
-
-# static-template
-
-# ToDoList-v1
-
 > A customisable to-do list where the user can add and tick off items. 
 > Live demo https://peaceful-dusk-23496.herokuapp.com/ 
 
@@ -46,8 +34,7 @@ List the ready features here:
 ## Usage
 The user can access different list by changing the end of the url e.g. https://peaceful-dusk-23496.herokuapp.com/work or https://peaceful-dusk-23496.herokuapp.com/personal
 
-The user can add items then click '+' button to add the item to the list. To remove items from the list, click on the item to eliminate. 
-
+Type to do item and press + button to add to list. Tick the checkbox if an item is completed. You can also create custom lists as well. 
 
 ## Project Status
 Project is: _complete_. I'm no longer working on it, because it was part of a coding bootcamp. 
