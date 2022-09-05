@@ -20,9 +20,10 @@
 
 
 ## Technologies Used
-- JavaScript (Node.js, EJS)
-- HTML
-- CSS
+
+- JavaScript (Node.js, EJS) - version ES6 
+- HTML - version 5.0
+- CSS - version 3.0
 - MongoDB
 - SQL
 
