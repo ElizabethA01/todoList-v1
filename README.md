@@ -1,4 +1,4 @@
-# ToDoList-v1
+# To Do List
 
 > A customisable to-do list where the user can add and tick off items. 
 > Live demo https://peaceful-dusk-23496.herokuapp.com/ 
@@ -7,6 +7,7 @@
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
 * [Features](#features)
+* [Setup](#setup)
 * [Usage](#usage)
 * [Project Status](#project-status)
 * [Room for Improvement](#room-for-improvement)
@@ -32,6 +33,14 @@
 List the ready features here:
 - Adding customisable list 
 - Ability to easily remove items
+
+
+## Setup
+To set up the local environment, clone the repository. 
+
+Clone the repository using the command line using HTTPS
+- Paste this command in the command line: $ git clone https://github.com/ElizabethA01/The-Simon-game.git or clone in VS code. 
+- Right click index.html and select open in default broswer (preferably Google Chrome).
 
 
 ## Usage
