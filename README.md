@@ -39,7 +39,7 @@ List the ready features here:
 To set up the local environment, clone the repository. 
 
 Clone the repository using the command line using HTTPS
-- Paste this command in the command line: $ git clone [ https://github.com/ElizabethA01/The-Simon-game.git](https://github.com/ElizabethA01/todoList-v1.git) or clone in VS code. 
+- Paste this command in the command line: $ git clone https://github.com/ElizabethA01/todoList-v1.git or clone in VS code. 
 - Right click index.html and select open in default broswer (preferably Google Chrome).
 
 
